@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.custom-popup {
+    background-color: rgb(46, 44, 44); 
+  }
+
+  .swal2-title {
+    color: white; 
+  }
+
+  .swal2-html-container {
+      color: white!important;
+  }
+  
+
